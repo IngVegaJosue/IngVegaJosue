@@ -8,63 +8,75 @@
 ## My tech stack
 
 <p align="left"> 
-
   <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+    <img alt="HTML" src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white">
   </a> 
   &emsp;
   <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white">
   </a> 
   &emsp;
   <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black">
   </a>
   &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  <a> 
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white">
   </a>
   &emsp;
   <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/-Python-green?logo=python&logoColor=white">
   </a>
   &emsp;
   <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white">
   </a>
   &emsp;
   <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white">
   </a>
   &emsp;
   <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/-C-grey?logo=c&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-red?logo=microsoftsqlserver&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-orange?logo=firebase&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Fusion 360" src="https://img.shields.io/badge/-Fusion%20360-lightblue?logo=autodesk&logoColor=black">
+  </a>
+  &emsp;
+  <a>
+    <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-red?logo=solidworks&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Windows" src="https://img.shields.io/badge/-Windows-blue?logo=windows&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="macOS" src="https://img.shields.io/badge/-macOS-black?logo=apple&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-yellow?logo=linux&logoColor=black">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft%20Office-orange?logo=microsoftoffice&logoColor=white">
   </a>
 </p>
+
 
 
 ## Connect with me:
