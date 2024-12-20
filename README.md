@@ -85,6 +85,19 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Josue Vega" height="30" width="40" /></a>
 </p>
+🌟 Automatización Inteligente con Sensores y PLCs🌟
+<p
+Transformando tecnologías en soluciones automatizadas para la industria del mañana
+  
+¿Qué me apasiona?
+🔗 Sensores Inteligentes y Conexión Dinámica: Desde próximo
+🧠 Programación Avanzada: lógica de escalera , textos estructurados.
+⚙️ Trabajo con Múltiples PLC:
+Allen Bradley 
+ABB
+Siemens
+De
+Schneider Electric
+💡 "Un sistema automatizado no solo opera, se adapta a tus necesidades."
 
------
-
+<p
