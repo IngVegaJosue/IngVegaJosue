@@ -84,10 +84,6 @@
   <a href="https://www.linkedin.com/in/jesus-josue-aparicio-vega-10722925a/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Josue Vega" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/josuevega_13/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Josue Vega" height="30" width="40" /></a>
-
 </p>
 
 -----
