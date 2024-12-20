@@ -85,7 +85,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Josue Vega" height="30" width="40" /></a>
 </p>
-🌟 Automatización Inteligente con Sensores y PLCs🌟
+🌟Automatización Inteligente con Sensores y PLCs🌟
 <p
 Transformando tecnologías en soluciones automatizadas para la industria del mañana
   
